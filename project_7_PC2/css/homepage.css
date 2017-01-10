@@ -3,7 +3,11 @@
   color:white;
   padding:10px;
 }
+<<<<<<< HEAD
 a.hed:link, a.hed:visited {
+=======
+a:link, a.hed:visited {
+>>>>>>> a0d8caf2995c62f5d6438b139123ea5dbd7e0aa4
     background-color: #f44336;
     color: white;
     padding: 10px 10px;
@@ -11,6 +15,7 @@ a.hed:link, a.hed:visited {
     text-decoration: none;
     display: block;
 }
+<<<<<<< HEAD
 a.link:link, a.link:visited{
   background-color: #f44336;
   color: white;
@@ -20,5 +25,11 @@ a.link:link, a.link:visited{
   display: inline-block;
 }
 a.hed:hover, a.hed:active {
+=======
+a.hed:link, a.hed:visited {
+  display: block;
+}
+a:hover, a:active {
+>>>>>>> a0d8caf2995c62f5d6438b139123ea5dbd7e0aa4
     background-color: red;
 }
