@@ -3,6 +3,24 @@
   color:white;
   padding:10px;
 }
+.footer {
+  background-color: royalblue;
+  color:white;
+  padding: 50px;
+  text-align: center;
+}
+.comic {
+  padding: 50px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+.ad {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
 a.hed:link, a.hed:visited {
     color: white;
     padding: 10px 10px;
@@ -13,7 +31,7 @@ a.hed:link, a.hed:visited {
 a.link:link, a.link:visited{
   background-color: #f44336;
   color: white;
-  padding: 10px 10px;
+  padding: 10px 157px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -23,6 +41,5 @@ a.hed:link, a.hed:visited {
   display: block;
 }
 a:hover, a:active {
->>>>>>> a0d8caf2995c62f5d6438b139123ea5dbd7e0aa4
     background-color: red;
 }
