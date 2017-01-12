@@ -21,6 +21,8 @@
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
+  width: 1300px;
+  height: 200px;
 }
 a.hed:link, a.hed:visited {
     color: white;
