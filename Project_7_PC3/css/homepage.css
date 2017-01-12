@@ -11,7 +11,8 @@
 }
 .comic {
   padding: 50px;
-  display: flex;
+  height: 1000px;
+  width: 600px;
   margin-left: auto;
   margin-right: auto;
 }
