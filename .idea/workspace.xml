@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5576afa4-a8d6-4598-ad3b-ab0ed357ac52" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project_7_PC3/css/homepage.css" afterPath="$PROJECT_DIR$/Project_7_PC3/css/homepage.css" />
-    </list>
+    <list default="true" id="5576afa4-a8d6-4598-ad3b-ab0ed357ac52" name="Default" comment="" />
     <ignored path="Project-7-Web-Storefront.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
