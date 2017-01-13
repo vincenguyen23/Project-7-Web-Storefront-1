@@ -1,0 +1,49 @@
+
+.title {
+  background-color:royalblue;
+  color:white;
+  padding:10px;
+}
+.footer {
+  background-color: royalblue;
+  color:white;
+  padding: 50px;
+  text-align: center;
+}
+.comic {
+  padding: 50px;
+  height: 1000px;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.ad {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  width: 5px;
+  height: 200px;
+}
+a.hed:link, a.hed:visited {
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+}
+a.link:link, a.link:visited{
+  background-color: #f44336;
+  color: white;
+  padding: 10px 157px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a.hed:link, a.hed:visited {
+  display: block;
+}
+a:hover, a:active {
+    background-color: red;
+}
