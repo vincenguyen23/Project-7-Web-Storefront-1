@@ -1,3 +1,4 @@
+
 .title {
   background-color:royalblue;
   color:white;
@@ -11,7 +12,8 @@
 }
 .comic {
   padding: 50px;
-  display: flex;
+  height: 1000px;
+  width: 600px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -20,6 +22,8 @@
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
+  width: 5px;
+  height: 200px;
 }
 a.hed:link, a.hed:visited {
     color: white;

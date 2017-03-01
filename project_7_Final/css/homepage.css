@@ -1,3 +1,8 @@
+img {
+  max-height: auto;
+  max-width: 100%;
+}
+
 .title {
   background-color:royalblue;
   color:white;
@@ -11,7 +16,8 @@
 }
 .comic {
   padding: 50px;
-  display: flex;
+  max-height: 1000px;
+  max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -20,6 +26,8 @@
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
+  width: 5px;
+  height: 200px;
 }
 a.hed:link, a.hed:visited {
     color: white;
@@ -42,4 +50,3 @@ a.hed:link, a.hed:visited {
 }
 a:hover, a:active {
     background-color: red;
-}
